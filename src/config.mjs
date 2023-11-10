@@ -9,8 +9,8 @@ export default {
     social: {
         'dribbble': false,
         'facebook': false,
-        'github': '',
-        'instagram': false,
+        'github': 'https://github.com/admartinbarcelo',
+        'instagram': 'https://www.instagram.com/admartinbarcelo/',
         'mastodon': false,
         'pinterest': false,
         'skype': false,
